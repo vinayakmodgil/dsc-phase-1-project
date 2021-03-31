@@ -56,11 +56,7 @@ The following steps that can be taken by Microsoft are:
 
 ## For more Information
 
-<<<<<<< HEAD
-See the full analysis in the Jupyter Notebook  or review this presentation.
-=======
 See the full analysis in <a href="https://github.com/vinayakmodgil/dsc-phase-1-project/blob/master/student.ipynb">Jupyter Notebook</a>  or review this <a href="https://github.com/vinayakmodgil/dsc-phase-1-project/blob/master/presentation.pdf">presentation</a>.
->>>>>>> 4293db16b03a3a747089799c44c7b22fd404e13e
 
 For additional info, contact Vinayak Modgil at vinayak.modgil@gmail.com
 
@@ -69,8 +65,4 @@ For additional info, contact Vinayak Modgil at vinayak.modgil@gmail.com
 ├── images
 ├── README.md
 ├── presentation.pdf
-<<<<<<< HEAD
-└── student.ipynb
-=======
-└── student.ipynb
->>>>>>> 4293db16b03a3a747089799c44c7b22fd404e13e
+└── student
