@@ -1,65 +1,68 @@
-# Phase 1 Project
+## Final Project Submission
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+<img src="microsoft-jobs-3b7xhren7mdjyfrte90lxc.jpg" width=80%>
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+## Microsoft enters the movie market
 
-## Project Overview
+## Author: Vinayak Modgil
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+<img src="MGS_gdc_20202x.jpg" width=80%>
 
-### Business Problem
+## Overview
+This is a project that uses Exploratory Data Analysis to help help Microsoft make decisions based on what movies to produce on their brand new venture Microsoft Movie Studio.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+## Business Problem
+Venturing into the movie market, Microsoft has a choice of making original video content just like Netflix and Hulu does. As a beginner in this industry, Microsoft needs to find out the recent trends in the movie industry, and the popularity of movies as seen on IMDB, Rotten Tomotoes and TMDB. The solution is to analyse the data and help the head of Microsoft’s new movie studio to make business decisions.
 
-### The Data
+## Data
+The data is selected from IMDB, TMDB, TN and Rotten tomatoes. The dataset contains over 650 movies and the data ranges from genres to worldwide gross.
 
-In the folder `zippedData` are movie datasets from:
+## Methods
+This project uses descriptive analysis, including description of trends over time. This provides a useful overview of movies from 2014 to 2019.
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+## Results
+The most popular genres are Sci-Fi follwed by Animation and Adventure.
+<img src="demo-figure-matplotlib.png" width=80%>
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+The trend of worldwide profit over the past 5 years:
+<img src="demo-figure-matplotlib1.png" width=80%>
+    
+Types of movies that have higher popularity:
+<img src="demo-figure-matplotlib2.png" width=80%>
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+domestic gross vs worldwide gross
+<img src="demo-figure-matplotlib3.png" width=80%>
 
-## Deliverables
+Trends of different budgeted films over the past 5 years:
+<img src="demo-figure-matplotlib4.png" width=80%>
 
-There are three deliverables for this project:
+ROI vs worldwide gross of different rated films:
+<img src="demo-figure-matplotlib5.png" width=80%>
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
 
-### Key Points
+## Conclusions 
+#### This analysis leads to three recommendations for producing original video content:
+1.) Microsoft needs to invest in media companies that make content in Sci-Fi, Animation and Adventure.
+2.) As seen from the trends, usually long movies are more popular and therefore Microsoft should focus on the same.
+3.) As we can see that domestic gross as well as worldwide gross have a linear relationship, Microsoft will benefit the most from releasing movies both domestically and internationally.
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+## Next Steps:
+The following steps that can be taken by Microsoft are:
+1.) Improve production speed by investing more money.
+2.) Take control of budget spending on popular movies.
+3.) Improve worldwide gross profit by taking charge of advertisements.
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+## For more Information
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+See the full analysis in the Jupyter Notebook  or review this presentation.
 
-## Getting Started
+For additional info, contact Vinayak Modgil at vinayak.modgil@gmail.com
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+## Repository Structure
+├── data
+├── images
+├── README.md
+├── presentation.pdf
+└── student.ipynb
