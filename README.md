@@ -44,15 +44,15 @@ ROI vs worldwide gross of different rated films:
 
 ## Conclusions 
 #### This analysis leads to three recommendations for producing original video content:
-1.) Microsoft needs to invest in media companies that make content in Sci-Fi, Animation and Adventure.
+1.) Microsoft needs to invest in media companies that make content in Sci-Fi, Animation and Adventure. 
 2.) As seen from the trends, usually long movies are more popular and therefore Microsoft should focus on the same.
-3.) As we can see that domestic gross as well as worldwide gross have a linear relationship, Microsoft will benefit the most from releasing movies both domestically and internationally.
+ 3.) Movies with high rating doesn't necessarily amount to the return on investment being high. As we can see, medium rated films perform better than others in terms of ROI.
 
 ## Next Steps:
-The following steps that can be taken by Microsoft are:
-1.) Improve production speed by investing more money.
-2.) Take control of budget spending on popular movies.
-3.) Improve worldwide gross profit by taking charge of advertisements.
+The following steps recommended are:
+1.) Improve production speed by investing more in genre-specific studios.
+2.) Aim for high return on investment which is usually seen from medium rated movies.
+3.) Allocate high budgets to movies
 
 ## For more Information
 
