@@ -31,7 +31,7 @@ The trend of worldwide profit over the past 5 years:
 Types of movies that have higher popularity:
 <img src="demo-figure-matplotlib2.png" width=80%>
 
-domestic gross vs worldwide gross
+production budget vs worldwide gross
 <img src="demo-figure-matplotlib3.png" width=80%>
 
 Trends of different budgeted films over the past 5 years:
