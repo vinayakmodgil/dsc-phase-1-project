@@ -7,7 +7,7 @@
 
 ## Author: Vinayak Modgil
 
-<img src="MGS_gdc_20202x.jpg" width=80%>
+<img src="Images/MGS_gdc_20202x.jpg" width=80%>
 
 ## Overview
 This is a project that uses Exploratory Data Analysis to help help Microsoft make decisions based on what movies to produce on their brand new venture Microsoft Movie Studio.
@@ -23,22 +23,22 @@ This project uses descriptive analysis, including description of trends over tim
 
 ## Results
 The most popular genres are Sci-Fi follwed by Animation and Adventure.
-<img src="demo-figure-matplotlib.png" width=80%>
+<img src="Images/demo-figure-matplotlib.png" width=80%>
 
 The trend of worldwide profit over the past 5 years:
-<img src="demo-figure-matplotlib1.png" width=80%>
+<img src="Images/demo-figure-matplotlib1.png" width=80%>
     
 Types of movies that have higher popularity:
-<img src="demo-figure-matplotlib2.png" width=80%>
+<img src="Images/demo-figure-matplotlib2.png" width=80%>
 
 production budget vs worldwide gross
-<img src="demo-figure-matplotlib3.png" width=80%>
+<img src="Images/demo-figure-matplotlib3.png" width=80%>
 
 Trends of different budgeted films over the past 5 years:
-<img src="demo-figure-matplotlib4.png" width=80%>
+<img src="Images/demo-figure-matplotlib4.png" width=80%>
 
 ROI vs worldwide gross of different rated films:
-<img src="demo-figure-matplotlib5.png" width=80%>
+<img src="Images/demo-figure-matplotlib5.png" width=80%>
 
 
 
